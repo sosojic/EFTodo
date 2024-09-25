@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e43c4691b2eb9b415e629d3245ba9dfa2c5cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fedc765f2f1493d64f67f2f7d1e71032710e709b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
